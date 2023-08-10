@@ -17,7 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## Bibliotecas
-- 
 - [Axios]([https://www.prisma.io/](https://axios-http.com/ptbr/docs/intro))
 
 
